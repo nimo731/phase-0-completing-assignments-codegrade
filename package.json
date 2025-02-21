@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "welcome-completing-assignments",
   "version": "1.0.0",
   "description": "## Introduction",
@@ -26,5 +27,19 @@
   },
   "dependencies": {
     "chai-fs": "^2.0.0"
+=======
+  "name": "development",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+>>>>>>> 5425852 (Removed embedded Git repository)
   }
 }
